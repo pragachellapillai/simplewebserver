@@ -1,4 +1,4 @@
-![Screenshot 2024-03-12 112951](https://github.com/pragachellapillai/simplewebserver/assets/148254952/765b6f2a-4531-49c6-8708-203a4e4832c3)# EX01 Developing a Simple Webserver
+# EX01 Developing a Simple Webserver
 ## Date: 20/03/2024
 
 ## AIM:
